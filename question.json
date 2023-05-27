@@ -1,0 +1,36 @@
+{
+"questions":[
+    {
+        "question":"Which Animal is known as a Ship of the Desert?",
+        "choices":["Lion","Tiger","Camel","Snake"],
+        "correctAnswer":"Camel"
+    },
+
+    {
+        "question":"How many days are there in a week?",
+        "choices":["8-Days","7-Days","9-Days","5-Days"],
+        "correctAnswer":"7-Days"
+    },
+
+    {
+        "question":"How many hours are there in a day?",
+        "choices":["12-Hours","18-Hours","24-Hours","10-Hours"],
+        "correctAnswer":"24-Hours"
+    },
+
+    {
+        "question":"Rainbow consist of how many colors?",
+        "choices":["8-Colors","7-Colors","5-Colors","9-Colors"],
+        "correctAnswer":"7-Colors"
+    },
+
+    {
+        "question":"How many days are there in a year?",
+        "choices":["365-Days","366-Days","355-Days","367-Days"],
+        "correctAnswer":"365-Days"
+    }
+
+
+
+]
+}
